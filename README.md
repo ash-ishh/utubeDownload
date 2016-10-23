@@ -7,4 +7,4 @@ youtube-dl
 usage:
 youtube-link (a)
 
-#if 'a' is provided along link audio will be downloaded otherwise video.
+-if 'a' is provided along link audio will be downloaded otherwise video.
