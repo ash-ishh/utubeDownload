@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=2
+Name=utubeDownload
+Exec=/home/usr/utubeDownload.sh
+Icon=/home/usr/icon.png
+Type=Application
+Terminal=true
